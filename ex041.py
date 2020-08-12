@@ -1,3 +1,7 @@
+#A Federação de Natação precisa de um programa que leia o
+#ano de nascimento do atleta e mostre em que categoria se aplica
+#Mirim, infantil, junior, senior ou master.
+
 from datetime import  date
 anoAtt = date.today().year
 print('\033[1m~\033[m'*45)
